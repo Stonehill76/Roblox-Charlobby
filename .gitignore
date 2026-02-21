@@ -1,3 +1,12 @@
+# Roblox place files (built by Rojo)
+*.rbxlx
+*.rbxl
+*.rbxm
+*.rbxmx
+
+# Rojo temp files
+roblox.lock
+
 # Compiled Lua sources
 luac.out
 
